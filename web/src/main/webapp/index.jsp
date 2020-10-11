@@ -16,7 +16,7 @@
     This is a very simple example web page on a JSP.
     Ashok kumar Pal
     Hello Program
-    Hello Class
+    Hello Class sam & vk
   </p>
 </body>
 </html>
